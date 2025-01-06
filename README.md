@@ -22,7 +22,7 @@ Launch-my-nft-monitor is a Discord bot designed to monitor NFT collections on th
 2. **Install dependencies:**
    Make sure you have Python and pip installed, then run:
    ```bash
-   pip install -r requirements.txt
+   pip install requests discord
    ```
 
 3. **Configure the bot:**
